@@ -170,14 +170,10 @@
    "source": [
     "<p style=\"text-align: justify;\">&nbsp;&nbsp;&nbsp;&nbsp;A área de estudo corresponde ao município de Fortaleza, estado do Ceará, localizada na região do nordeste brasileiro com coordenadas geográficas variando entre 3°43′S à 3°56′S e 38°22′W à 38°32′W. Ela possui clima tropical, com verão úmido e inverno seco, e é classificada como Aw de acordo com a classificação climática de Köppen e Geiger. A sua temperatura média anual em Fortaleza é 26.3 °C e pluviosidade média anual de 1448 mm. No mês de Novembro há o registro do mês mais quente do ano e Julho é o mês com a mais baixa temperatura ao longo do ano.<p>\n",
     "\n",
-    "<!-- Para ser visualizado na tela\n",
     "<figure>\n",
     "   <img src=\"imgs/area/fortaleza.jpg\" alt=\"Fortaleza-CE\" width=\"640\">\n",
     "   <figcaption style=\"text-align: center;\">Fig 1. - Uma visão da área de Fortaleza/CE.</figcaption>\n",
-    "</figure> \n",
-    " -->\n",
-    "\n",
-    "![Alt text](https://github.com/ocn-rviana/suhi-ser347/blob/master/imgs/area/fortaleza.jpg?raw=True)"
+    "</figure> "
    ]
   },
   {
@@ -1250,7 +1246,7 @@
     "</figure>\n",
     " -->\n",
     "\n",
-    "![Alt text](https://github.com/ocn-rviana/suhi-ser347/blob/master/imgs/suhi.png?raw=True)"
+    "![Image](https://github.com/ocn-rviana/suhi-ser347/blob/master/imgs/suhi.png)"
    ]
   },
   {
