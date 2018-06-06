@@ -1,0 +1,78 @@
+2018-06-06 01:12:13,004 - DEBUG - Starting new HTTPS connection (1): e4ftl01.cr.usgs.gov
+2018-06-06 01:12:14,046 - DEBUG - https://e4ftl01.cr.usgs.gov:443 "GET /MOLT/MOD11A2.006/2003.04.23 HTTP/1.1" 301 264
+2018-06-06 01:12:15,242 - DEBUG - https://e4ftl01.cr.usgs.gov:443 "GET /MOLT/MOD11A2.006/2003.04.23/ HTTP/1.1" 200 None
+2018-06-06 01:12:28,370 - DEBUG - Starting new HTTPS connection (1): e4ftl01.cr.usgs.gov
+2018-06-06 01:12:29,076 - DEBUG - https://e4ftl01.cr.usgs.gov:443 "GET /MOLT/MOD11A2.006/2003.04.15 HTTP/1.1" 301 264
+2018-06-06 01:12:30,216 - DEBUG - https://e4ftl01.cr.usgs.gov:443 "GET /MOLT/MOD11A2.006/2003.04.15/ HTTP/1.1" 200 None
+2018-06-06 01:12:37,754 - DEBUG - Starting new HTTPS connection (1): e4ftl01.cr.usgs.gov
+2018-06-06 01:12:38,488 - DEBUG - https://e4ftl01.cr.usgs.gov:443 "GET /MOLT/MOD11A2.006/2003.04.07 HTTP/1.1" 301 264
+2018-06-06 01:12:39,620 - DEBUG - https://e4ftl01.cr.usgs.gov:443 "GET /MOLT/MOD11A2.006/2003.04.07/ HTTP/1.1" 200 None
+2018-06-06 01:12:50,107 - DEBUG - Starting new HTTPS connection (1): e4ftl01.cr.usgs.gov
+2018-06-06 01:12:50,802 - DEBUG - https://e4ftl01.cr.usgs.gov:443 "GET /MOLA/MYD11A2.006/2003.04.23 HTTP/1.1" 301 264
+2018-06-06 01:12:51,962 - DEBUG - https://e4ftl01.cr.usgs.gov:443 "GET /MOLA/MYD11A2.006/2003.04.23/ HTTP/1.1" 200 None
+2018-06-06 01:13:02,494 - DEBUG - Starting new HTTPS connection (1): e4ftl01.cr.usgs.gov
+2018-06-06 01:13:03,231 - DEBUG - https://e4ftl01.cr.usgs.gov:443 "GET /MOLA/MYD11A2.006/2003.04.15 HTTP/1.1" 301 264
+2018-06-06 01:13:04,401 - DEBUG - https://e4ftl01.cr.usgs.gov:443 "GET /MOLA/MYD11A2.006/2003.04.15/ HTTP/1.1" 200 None
+2018-06-06 01:13:12,091 - DEBUG - Starting new HTTPS connection (1): e4ftl01.cr.usgs.gov
+2018-06-06 01:13:12,797 - DEBUG - https://e4ftl01.cr.usgs.gov:443 "GET /MOLA/MYD11A2.006/2003.04.07 HTTP/1.1" 301 264
+2018-06-06 01:13:13,951 - DEBUG - https://e4ftl01.cr.usgs.gov:443 "GET /MOLA/MYD11A2.006/2003.04.07/ HTTP/1.1" 200 None
+2018-06-06 01:14:15,557 - WARNING - /home/rafael/anaconda3/envs/geospatial/lib/python3.6/site-packages/ipykernel_launcher.py:3: RuntimeWarning: Mean of empty slice
+  This is separate from the ipykernel package so we can avoid doing imports until
+
+2018-06-06 01:16:23,895 - DEBUG - GDAL_DATA: /home/rafael/anaconda3/envs/geospatial/share/gdal
+2018-06-06 01:16:23,896 - DEBUG - PROJ_LIB: /home/rafael/anaconda3/envs/geospatial/share/proj
+2018-06-06 01:16:23,897 - DEBUG - Userencoding: None
+2018-06-06 01:16:23,926 - DEBUG - Index: 0
+2018-06-06 01:16:23,999 - DEBUG - Flushed buffer
+2018-06-06 01:16:23,999 - DEBUG - Stopped session
+2018-06-06 01:31:32,984 - DEBUG - GDAL_DATA: /home/rafael/anaconda3/envs/geospatial/share/gdal
+2018-06-06 01:31:33,023 - DEBUG - PROJ_LIB: /home/rafael/anaconda3/envs/geospatial/share/proj
+2018-06-06 01:31:33,023 - DEBUG - Userencoding: None
+2018-06-06 01:31:33,075 - DEBUG - Index: 0
+2018-06-06 01:31:33,289 - DEBUG - Flushed buffer
+2018-06-06 01:31:33,289 - DEBUG - Stopped session
+2018-06-06 01:32:00,761 - DEBUG - GDAL_DATA: /home/rafael/anaconda3/envs/geospatial/share/gdal
+2018-06-06 01:32:00,761 - DEBUG - PROJ_LIB: /home/rafael/anaconda3/envs/geospatial/share/proj
+2018-06-06 01:32:00,763 - DEBUG - Userencoding: None
+2018-06-06 01:32:00,764 - DEBUG - Index: 0
+2018-06-06 01:32:00,788 - DEBUG - Flushed buffer
+2018-06-06 01:32:00,788 - DEBUG - Stopped session
+2018-06-06 01:32:26,915 - WARNING - /home/rafael/anaconda3/envs/geospatial/lib/python3.6/site-packages/ipykernel_launcher.py:3: RuntimeWarning: Mean of empty slice
+  This is separate from the ipykernel package so we can avoid doing imports until
+
+2018-06-06 01:43:31,686 - WARNING - /home/rafael/anaconda3/envs/geospatial/lib/python3.6/site-packages/ipykernel_launcher.py:3: RuntimeWarning: Mean of empty slice
+  This is separate from the ipykernel package so we can avoid doing imports until
+
+2018-06-06 01:48:34,071 - WARNING - /home/rafael/anaconda3/envs/geospatial/lib/python3.6/site-packages/ipykernel_launcher.py:3: RuntimeWarning: Mean of empty slice
+  This is separate from the ipykernel package so we can avoid doing imports until
+
+2018-06-06 02:01:06,183 - DEBUG - findfont: Matching :family=STIXGeneral:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to STIXGeneral ('/home/rafael/anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneral.ttf') with score of 0.050000
+2018-06-06 02:01:06,263 - DEBUG - findfont: Matching :family=STIXGeneral:style=italic:variant=normal:weight=normal:stretch=normal:size=10.0 to STIXGeneral ('/home/rafael/anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralItalic.ttf') with score of 0.050000
+2018-06-06 02:01:06,264 - DEBUG - findfont: Matching :family=STIXGeneral:style=normal:variant=normal:weight=bold:stretch=normal:size=10.0 to STIXGeneral ('/home/rafael/anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBol.ttf') with score of 0.000000
+2018-06-06 02:01:06,299 - DEBUG - findfont: Matching :family=STIXNonUnicode:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to STIXNonUnicode ('/home/rafael/anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUni.ttf') with score of 0.050000
+2018-06-06 02:01:06,331 - DEBUG - findfont: Matching :family=STIXNonUnicode:style=italic:variant=normal:weight=normal:stretch=normal:size=10.0 to STIXNonUnicode ('/home/rafael/anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniIta.ttf') with score of 0.050000
+2018-06-06 02:01:06,332 - DEBUG - findfont: Matching :family=STIXNonUnicode:style=normal:variant=normal:weight=bold:stretch=normal:size=10.0 to STIXNonUnicode ('/home/rafael/anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBol.ttf') with score of 0.000000
+2018-06-06 02:01:06,359 - DEBUG - findfont: Matching :family=STIXSizeOneSym:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to STIXSizeOneSym ('/home/rafael/anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymReg.ttf') with score of 0.050000
+2018-06-06 02:01:06,386 - DEBUG - findfont: Matching :family=STIXSizeTwoSym:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to STIXSizeTwoSym ('/home/rafael/anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymReg.ttf') with score of 0.050000
+2018-06-06 02:01:06,411 - DEBUG - findfont: Matching :family=STIXSizeThreeSym:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to STIXSizeThreeSym ('/home/rafael/anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymReg.ttf') with score of 0.050000
+2018-06-06 02:01:06,436 - DEBUG - findfont: Matching :family=STIXSizeFourSym:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to STIXSizeFourSym ('/home/rafael/anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymReg.ttf') with score of 0.050000
+2018-06-06 02:01:06,462 - DEBUG - findfont: Matching :family=STIXSizeFiveSym:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to STIXSizeFiveSym ('/home/rafael/anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFiveSymReg.ttf') with score of 0.050000
+2018-06-06 02:01:06,487 - DEBUG - findfont: Matching :family=cmsy10:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to cmsy10 ('/home/rafael/anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/cmsy10.ttf') with score of 0.050000
+2018-06-06 02:01:06,512 - DEBUG - findfont: Matching :family=cmr10:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to cmr10 ('/home/rafael/anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/cmr10.ttf') with score of 0.050000
+2018-06-06 02:01:06,538 - DEBUG - findfont: Matching :family=cmtt10:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to cmtt10 ('/home/rafael/anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/cmtt10.ttf') with score of 0.050000
+2018-06-06 02:01:06,563 - DEBUG - findfont: Matching :family=cmmi10:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to cmmi10 ('/home/rafael/anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/cmmi10.ttf') with score of 0.050000
+2018-06-06 02:01:06,589 - DEBUG - findfont: Matching :family=cmb10:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to cmb10 ('/home/rafael/anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/cmb10.ttf') with score of 0.050000
+2018-06-06 02:01:06,614 - DEBUG - findfont: Matching :family=cmss10:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to cmss10 ('/home/rafael/anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/cmss10.ttf') with score of 0.050000
+2018-06-06 02:01:06,639 - DEBUG - findfont: Matching :family=cmex10:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to cmex10 ('/home/rafael/anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/cmex10.ttf') with score of 0.050000
+2018-06-06 02:01:06,664 - DEBUG - findfont: Matching :family=DejaVu Sans:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/home/rafael/anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+2018-06-06 02:01:06,690 - DEBUG - findfont: Matching :family=DejaVu Sans:style=italic:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/home/rafael/anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Oblique.ttf') with score of 0.150000
+2018-06-06 02:01:06,692 - DEBUG - findfont: Matching :family=DejaVu Sans:style=normal:variant=normal:weight=bold:stretch=normal:size=10.0 to DejaVu Sans ('/home/rafael/anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Bold.ttf') with score of 0.000000
+2018-06-06 02:01:06,717 - DEBUG - findfont: Matching :family=DejaVu Sans Mono:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans Mono ('/home/rafael/anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono.ttf') with score of 0.050000
+2018-06-06 02:01:06,742 - DEBUG - findfont: Matching :family=DejaVu Sans Display:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans Display ('/home/rafael/anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansDisplay.ttf') with score of 0.050000
+2018-06-06 02:02:14,031 - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=14.0 to DejaVu Sans ('/home/rafael/anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+2018-06-06 02:04:05,177 - WARNING - /home/rafael/anaconda3/envs/geospatial/lib/python3.6/site-packages/ipykernel_launcher.py:3: RuntimeWarning: Mean of empty slice
+  This is separate from the ipykernel package so we can avoid doing imports until
+
+2018-06-06 02:04:20,779 - WARNING - /home/rafael/anaconda3/envs/geospatial/lib/python3.6/site-packages/ipykernel_launcher.py:3: RuntimeWarning: Mean of empty slice
+  This is separate from the ipykernel package so we can avoid doing imports until
+
